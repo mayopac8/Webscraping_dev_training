@@ -10,7 +10,7 @@ https://product.rakuten.co.jp/product/-/568c382be2381ebaa925cee393f09d8d/?l-id=w
 pip install lxml
 ```
 
-* 必要なXpathはChromeの「デベロッパーツール」を使って簡単に取得できます。
+* 必要なXpathはChromeの「デベロッパーツール」を使って簡単に取得できます。※F12押せば出る
 
 ```py
 import urllib.request
